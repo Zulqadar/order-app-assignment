@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #333;
+  padding: 1em;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 1em;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+div {
+  padding: 2em;
+}
+
+form div {
+  margin-bottom: 1em;
+}
